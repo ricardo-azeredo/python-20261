@@ -7,7 +7,6 @@ while True:
         break
     total += numero
     contador += 1
-
 media = total / contador
 print(f"Soma total: {total}")
 print(f"Média dos números: {media:.2f}")
